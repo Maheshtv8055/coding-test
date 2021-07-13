@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iTunesData</string>
+    <string name="enter_artist">Enter Artist</string>
+    <string name="search">Search</string>
+</resources>
